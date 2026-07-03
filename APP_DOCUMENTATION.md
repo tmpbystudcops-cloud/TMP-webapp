@@ -4,8 +4,7 @@
 
 ---
 
-## 1. App Overview
-
+## 1. App Overvie
 **Name**: TMP at NU (campus snack shop ordering system)
 
 **Purpose**: A lightweight web application for a campus snack shop. Customers browse products, place orders via UPI payment, and track their order status. An admin panel manages products, orders, and shop settings.

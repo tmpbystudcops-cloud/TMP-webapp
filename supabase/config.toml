@@ -1,0 +1,6 @@
+# Supabase CLI project configuration.
+# Run `supabase link --project-ref <your-ref>` then `supabase db push` to apply migrations.
+project_id = "tmp-at-nu"
+
+[db]
+major_version = 15
